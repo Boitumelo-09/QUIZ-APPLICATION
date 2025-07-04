@@ -4,7 +4,7 @@ Welcome to the **C++ Quiz App** – a simple console-based quiz game built using
 
 ---
 
-## 📋 Features
+## 📋 Features Implemented
 
 - ✅ 5 multiple-choice questions
 - ✅ Case-insensitive answer checking
